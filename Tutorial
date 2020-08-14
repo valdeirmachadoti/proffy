@@ -1,0 +1,6 @@
+#Criando o Projeto
+npx create-react-app web --template typescript
+
+#Executando o Projeto
+npm start / yarn start
+
